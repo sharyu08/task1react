@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Task1-React/static/css/main.cd9c01e5.css",
+    "main.js": "/Task1-React/static/js/main.0622a058.js",
+    "static/media/profile1.png": "/Task1-React/static/media/profile1.7a4131c86f688ffe20af.png",
+    "static/media/profile3.png": "/Task1-React/static/media/profile3.712ca9168e17308691e1.png",
+    "static/media/profile2.png": "/Task1-React/static/media/profile2.45b91a90f6e9c8169f1e.png",
+    "index.html": "/Task1-React/index.html",
+    "main.cd9c01e5.css.map": "/Task1-React/static/css/main.cd9c01e5.css.map",
+    "main.0622a058.js.map": "/Task1-React/static/js/main.0622a058.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9c01e5.css",
+    "static/js/main.0622a058.js"
+  ]
+}
