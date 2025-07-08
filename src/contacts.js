@@ -4,21 +4,21 @@ const contacts = [
     image: "profile2.png",
     name: "Aarav Mehta",
     age: 30,
-    email: "aarav.mehta@example.com",
+    email: "aarav.mehta@gmail.com",
   },
   {
     id: 2,
     image: "profile1.png",
     name: "Sneha Iyer",
     age: 30,
-    email: "sneha.iyer@example.com",
+    email: "sneha.iyer@gmail.com",
   },
   {
     id: 3,
     image: "profile3.png",
     name: "Ruby Gupta",
     age: 22,
-    email: "ruby.gupta@example.com",
+    email: "ruby.gupta@gmail.com",
   },
 ];
 
